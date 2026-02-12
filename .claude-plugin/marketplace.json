@@ -1,12 +1,11 @@
 {
-  "name": "my-team-plugin-marketplace",
+  "name": "deylac/claude-plugin-marketplace",
   "owner": {
-    "name": "Your Organization",
-    "email": "team@your-org.com"
+    "name": "Brice",
   },
   "metadata": {
-    "description": "A curated collection of Claude Code plugins for our team",
-    "version": "1.3.0"
+    "description": "Une collection de plugins pour Claude Code que j'ai créée",
+    "version": "1.0.0"
   },
   "plugins": [
     {
