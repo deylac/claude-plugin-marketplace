@@ -1,0 +1,23 @@
+{
+  "name": "marketing-funnel-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit complet de marketing funnel pour createurs de formations et coaching : copywriting, email sequences, lead magnets, SEO, positionnement, brand voice et audit qualite",
+  "author": {
+    "name": "Brice Trophardy",
+    "url": "https://github.com/deylac"
+  },
+  "homepage": "https://github.com/deylac/claude-plugin-marketplace",
+  "repository": "https://github.com/deylac/claude-plugin-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "funnel",
+    "copywriting",
+    "email",
+    "coaching",
+    "formation",
+    "lead-magnet",
+    "seo",
+    "positionnement"
+  ]
+}

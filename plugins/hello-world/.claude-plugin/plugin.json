@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "A simple example plugin that demonstrates basic Claude Code plugin functionality",
   "author": {
-    "name": "Your Team",
-    "email": "team@your-org.com",
-    "url": "https://github.com/your-org"
+    "name": "Brice Trophardy",
+    "url": "https://github.com/deylac"
   },
-  "homepage": "https://github.com/your-org/your-marketplace-name",
-  "repository": "https://github.com/your-org/your-marketplace-name",
+  "homepage": "https://github.com/deylac/claude-plugin-marketplace",
+  "repository": "https://github.com/deylac/claude-plugin-marketplace",
   "license": "MIT",
   "keywords": ["example", "tutorial", "hello-world"]
 }

@@ -1,11 +1,11 @@
 {
-  "name": "my-team-plugin-marketplace",
+  "name": "superproductif",
   "owner": {
-    "name": "Your Organization",
-    "email": "team@your-org.com"
+    "name": "Brice Trophardy",
+    "email": "contact@deylac.com"
   },
   "metadata": {
-    "description": "A curated collection of Claude Code plugins for our team",
+    "description": "Plugins marketing et productivite par Brice Trophardy",
     "version": "1.3.0"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "description": "A simple example plugin demonstrating basic Claude Code plugin functionality",
       "version": "1.0.0",
       "author": {
-        "name": "Your Team"
+        "name": "Brice Trophardy"
       },
       "source": "./plugins/hello-world",
       "category": "examples",
@@ -32,6 +32,18 @@
       "category": "developer-tools",
       "tags": ["development", "plugins", "scaffold", "validation", "tools"],
       "keywords": ["claude-code", "plugins", "developer-tools", "scaffold", "validation"]
+    },
+    {
+      "name": "marketing-funnel-toolkit",
+      "description": "Toolkit complet de marketing funnel pour createurs de formations et coaching : copywriting, email sequences, lead magnets, SEO, positionnement, brand voice et audit qualite",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brice Trophardy"
+      },
+      "source": "./plugins/marketing-funnel-toolkit",
+      "category": "marketing",
+      "tags": ["marketing", "funnel", "copywriting", "email", "coaching", "formation"],
+      "keywords": ["marketing", "funnel", "copywriting", "email-sequences", "lead-magnet", "seo", "positionnement"]
     }
   ]
 }
