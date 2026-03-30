@@ -1,0 +1,21 @@
+{
+  "name": "website-builder-setup",
+  "version": "1.0.0",
+  "description": "Install the full AI website builder stack: UI/UX Pro Max skill + 21st.dev Magic MCP server. One skill, three tools, zero coding experience needed.",
+  "author": {
+    "name": "Brice Trophardy",
+    "url": "https://github.com/deylac"
+  },
+  "homepage": "https://github.com/deylac/claude-plugin-marketplace",
+  "repository": "https://github.com/deylac/claude-plugin-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "website-builder",
+    "setup",
+    "ui-ux",
+    "21st-dev",
+    "mcp",
+    "design",
+    "components"
+  ]
+}
